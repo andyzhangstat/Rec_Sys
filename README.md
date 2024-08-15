@@ -1,4 +1,4 @@
-# Rec_Sys
+# Applications of recommender system in various datasets
 
 This repository documents the implementation of popular recommender system models using real-world data.
 
